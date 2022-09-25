@@ -1,0 +1,27 @@
+body {
+  font-family: "Montserrat";
+  background-color: rgb(225, 235, 239);
+  text-align: center;
+}
+
+h2 {
+  font-size: 0.9rem;
+  margin-top: 7%;
+}
+
+p {
+  color: #8f8f8f;
+  font-size: 12px;
+}
+
+.card {
+  border-radius: 20px;
+  width: 50%;
+  margin-top: 90px;
+  margin-left: 120px;
+}
+
+.qr-image {
+  width: 100%;
+  border-radius: 10px;
+}
